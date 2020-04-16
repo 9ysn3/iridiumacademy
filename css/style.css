@@ -1,0 +1,57 @@
+#logo{
+	width:11vw;
+	height: 83px;
+}
+#logo img{
+	width:100%;
+}
+.main-menu{
+	padding-top:0px;
+	padding-bottom: 0px;
+}
+.nav-menu> li a{
+	font-size: 16px;
+}
+.banner-content h1{
+	font-size: 35px;
+}
+.banner-area .overlay-bg{
+	background-color:rgba(66,69,53,0.8);
+}
+.single-feature .desc-wrap {
+    background-color: rgba(240, 144, 7, 0.5);
+    box-shadow: 0px 10px 30px 0px rgba(66, 69, 53, 0.45);
+}
+.title h4{
+	font-size: 15px;
+}
+.desc-wrap p{
+	color: rgb(66, 69, 53);
+}
+.commingsoon{
+	text-align: center;;
+	margin: 0 auto;
+}.text-black{
+	color: black;
+	align-self: center;
+	    margin: 0 auto;
+}
+.section-gap {
+	padding: 0px;
+}
+.contact-page-area .map-wrap{
+	margin-bottom: 20px;
+}
+.wts{
+	margin: 0 auto;
+	width: 100%;
+	font-size: 17px;
+}
+.footer-bottom{
+	padding-top: 1px;
+}
+.mytext{
+	color: #111111;
+    font-size: 16px;
+    font-family: sans-serif;
+}
